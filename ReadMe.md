@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá! Sou uma desenvolvedora iniciante, mas em constante aprendizado!<br>🌱 Estou focada em aprofundar meus estudos em desenvolvimento web, aprendendo HTML, CSS e JavaScript, além de frameworks populares como React<br>📫 Se você tem alguma dica, conselho ou apenas quer bater um papo sobre desenvolvimento web, fique à vontade para entrar em contato comigo
+👋 Olá! Me chamo Amanda e sou uma desenvolvedora iniciante, mas em constante aprendizado!<br>🌱 Estou focada em aprofundar meus estudos em desenvolvimento web, aprendendo HTML, CSS e JavaScript, além de frameworks populares como React<br>📫 Se você tem alguma dica, conselho ou apenas quer bater um papo sobre desenvolvimento web, fique à vontade para entrar em contato comigo
 
 
 ## 🌐 Socials:
